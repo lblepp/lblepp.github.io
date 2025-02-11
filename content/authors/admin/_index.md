@@ -25,7 +25,7 @@ role: PhD-candidate
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Tilburg University
-    url: (https://www.tilburguniversity.edu/)
+    url: https://www.tilburguniversity.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
